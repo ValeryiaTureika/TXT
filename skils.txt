@@ -1,0 +1,7 @@
+ skils_1: Terminal linux,
+ skils_2: Git,
+ skils_3: Client Server,
+ skils_4: SQL,
+ skils_5: Postman,
+ skils_6: Mobile testing
+
