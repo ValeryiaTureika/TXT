@@ -1,0 +1,6 @@
+last name: Турейко,
+first name: Валерия,
+surname: Михайловна,
+age: 26,
+animal: 1,
+salary: 700 $
